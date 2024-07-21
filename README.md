@@ -1,10 +1,10 @@
-Introduction to HTML5
+# Introduction to HTML5
 
-What is HTML5?
+## What is HTML5?
 
 HTML5 is the latest evolution of the standard that defines HTML, the fundamental language of the web. It introduces a range of new features and capabilities that were not available in previous versions, enabling more diverse and powerful websites and applications. HTML5 is designed to be cross-platform and is supported by all modern web browsers.
 
-Key Components of HTML5
+## Key Components of HTML5
 
 HTML5 encompasses a variety of technologies and API enhancements aimed at allowing the creation of more sophisticated web applications and improving the semantic accessibility of documents. Its core components include:
 
